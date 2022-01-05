@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Feito por Isaque Ribeiro Ferreira
+Direitos de imagem para a Netflix
+Dados do Site pegos da Themoviedb.org
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
